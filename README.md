@@ -2,10 +2,11 @@
 ![Logo](http://i65.tinypic.com/30kvg4w.jpg)<br/>
 Shawn Holcomb, Kellan Benn, Colin Westmoreland
 
+# Deployed Site
+https://kellanb.github.io/drinkr/
+
 # Description
 drinkr is a web app that helps users discover new and interesting beer recommendations based on their tastes and preferences.  Utilizing a short questionnaire drinkr offers a curated style recommendation, provides a map outlining local breweries and pubs and lists specific beverage recommendations for the user. <br/>
-
-Deployed Site: https://kellanb.github.io/drinkr/
 
 # Sketch
 **Age Verification Page**
